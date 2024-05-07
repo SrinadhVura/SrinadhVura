@@ -19,4 +19,5 @@ Here are some ideas to get you started:-->
 
 <img src="https://myreadme.vercel.app/api/embed/SrinadhVura?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+![Snake animation](https://github.com/SrinadhVura/github-readme/blob/output/github-contribution-snake.svg)
 ![](https://komarev.com/ghpvc/?username=SrinadhVura&style=for-the-badge&color=orange)
