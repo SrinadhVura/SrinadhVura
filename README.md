@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 ### Achievements ✌️
 - *Top 5 finalists of cohere hackathon* : Our team stood one of the top five finalists in a one-week virtual hackathon conducted by CoHere Inc., an American based company. Globally more than 2250 participants teamed up into 150+ teams have participated in the hackathon. View our work - Voice Clue at https://github.com/SrinadhVura/Cohere_hack_WeM2
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SrinadhVura&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SrinadhVura&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 ![](https://komarev.com/ghpvc/?username=SrinadhVura&style=for-the-badge&color=orange)
