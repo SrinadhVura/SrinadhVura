@@ -29,13 +29,13 @@ Here are some ideas to get you started:-->
   <tbody>
     <tr>
       <td><a href="https://github.com/SrinadhVura/differ"><b>Differ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SrinadhVura/differ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SrinadhVura/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SrinadhVura/Python?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SrinadhVura/Python?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/SrinadhVura/differ"><b>Simple SQLite</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SrinadhVura/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SrinadhVura/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SrinadhVura/ai?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SrinadhVura/ai?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
